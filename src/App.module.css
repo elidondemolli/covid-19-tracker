@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     background-color: rgb(250, 250, 250);
 }
 
@@ -12,6 +13,10 @@ body {
 .image {
     width: 370px;
     margin-top: 50px;
+}
+
+.switch1 {
+    margin-top: 10px;
 }
 
 @media (max-width: 770px) {
